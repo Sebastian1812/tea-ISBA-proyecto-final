@@ -1,0 +1,71 @@
+{
+  "patients": [
+    {
+      "id": "PAT-001",
+      "name": "Mateo Rodríguez",
+      "age": 6,
+      "gender": "M",
+      "diagnosis_date": "2022-03-15",
+      "assessments": {
+        "CARS": {
+          "score": 32.5,
+          "date": "2024-01-10",
+          "interpretation": "Moderate to severe autism"
+        },
+        "ADOS": {
+          "score": 8,
+          "date": "2024-01-10",
+          "module": 2,
+          "interpretation": "Autism spectrum"
+        }
+      },
+      "baseline_severity": 7.5,
+      "active_therapies": ["ABA", "Speech Therapy", "Occupational Therapy"]
+    },
+    {
+      "id": "PAT-002",
+      "name": "Valentina Gómez",
+      "age": 4,
+      "gender": "F",
+      "diagnosis_date": "2023-08-20",
+      "assessments": {
+        "CARS": {
+          "score": 28.0,
+          "date": "2024-02-15",
+          "interpretation": "Mild to moderate autism"
+        },
+        "ADOS": {
+          "score": 6,
+          "date": "2024-02-15",
+          "module": 1,
+          "interpretation": "Mild autism spectrum"
+        }
+      },
+      "baseline_severity": 5.0,
+      "active_therapies": ["ABA", "Play Therapy"]
+    },
+    {
+      "id": "PAT-003",
+      "name": "Sofía Martínez",
+      "age": 8,
+      "gender": "F",
+      "diagnosis_date": "2021-11-05",
+      "assessments": {
+        "CARS": {
+          "score": 35.0,
+          "date": "2024-01-20",
+          "interpretation": "Severe autism"
+        },
+        "ADOS": {
+          "score": 10,
+          "date": "2024-01-20",
+          "module": 3,
+          "interpretation": "Severe autism spectrum"
+        }
+      },
+      "baseline_severity": 8.5,
+      "active_therapies": ["ABA", "Speech Therapy", "Occupational Therapy", "Social Skills Group"]
+    }
+  ],
+  "clinical_domains": ["communication", "social_interaction", "repetitive_behaviors", "adaptive_functioning"]
+}

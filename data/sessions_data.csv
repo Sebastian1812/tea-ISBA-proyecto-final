@@ -1,0 +1,17 @@
+patient_id,session_date,therapist,domain,positive_responses,target_behaviors_achieved,progress_score,notes
+PAT-001,2024-01-15,Dr. García,communication,0.65,4,0.68,Initial session with good eye contact
+PAT-001,2024-01-22,Dr. García,communication,0.70,5,0.72,Improved verbal initiation
+PAT-001,2024-01-29,Dr. García,social_interaction,0.60,3,0.65,Working on turn-taking
+PAT-001,2024-02-05,Dr. García,social_interaction,0.72,4,0.74,Better response to peer initiations
+PAT-001,2024-02-12,Dr. García,repetitive_behaviors,0.55,2,0.58,Reduced stimming during activities
+PAT-001,2024-02-19,Dr. García,communication,0.78,6,0.79,Increased spontaneous language
+PAT-002,2024-02-01,Lic. Torres,communication,0.70,4,0.72,Good joint attention
+PAT-002,2024-02-08,Lic. Torres,communication,0.75,5,0.76,Following complex instructions
+PAT-002,2024-02-15,Lic. Torres,social_interaction,0.68,4,0.70,Initiated play with sibling
+PAT-002,2024-02-22,Lic. Torres,social_interaction,0.72,5,0.74,Shared enjoyment in activities
+PAT-003,2024-01-10,Dr. Fernández,repetitive_behaviors,0.40,1,0.42,Challenging session
+PAT-003,2024-01-17,Dr. Fernández,repetitive_behaviors,0.48,2,0.50,Some improvement with redirection
+PAT-003,2024-01-24,Dr. Fernández,communication,0.45,1,0.47,Minimal verbal output
+PAT-003,2024-01-31,Dr. Fernández,communication,0.52,2,0.54,Using AAC device more consistently
+PAT-003,2024-02-07,Dr. Fernández,social_interaction,0.50,2,0.52,Awareness of peers
+PAT-003,2024-02-14,Dr. Fernández,social_interaction,0.58,3,0.60,Initiated greeting to therapist
